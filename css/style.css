@@ -1,0 +1,30 @@
+* {
+    background-color: #fff;
+    box-sizing: border-box;
+}
+
+div {
+    width: 100%;
+}
+
+p {
+    background-color: #ccc;
+    width: 100px;
+    padding: 10px;
+    margin: 25px;
+}
+
+h3 {
+    margin: 20px;
+    padding-top: 30px;
+    color: #3e9936;
+}
+
+button {
+    width: 70%;
+    background-color: #ccc;
+}
+
+nav {
+    background-color: #3e9936;
+}
